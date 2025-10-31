@@ -20,11 +20,11 @@ Pengguna dapat **mencari resep berdasarkan nama**, **memilih kategori atau area*
 
 ## ✨ Fitur Utama
 
-1️⃣ Form pencarian dengan input text dan dropdown kategori
-2️⃣ Grid card resep dengan gambar dan nama
-3️⃣ Detail resep dengan ingredients dan instructions
-4️⃣ Filter berdasarkan area/country (dropdown)
-5️⃣ Random recipe generator button
+- 1️⃣ Form pencarian dengan input text dan dropdown kategori
+- 2️⃣ Grid card resep dengan gambar dan nama
+- 3️⃣ Detail resep dengan ingredients dan instructions
+- 4️⃣ Filter berdasarkan area/country (dropdown)
+- 5️⃣ Random recipe generator button
 
 ---
 
