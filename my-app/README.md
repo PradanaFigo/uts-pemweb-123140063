@@ -64,7 +64,7 @@ Berikut adalah langkah-langkah untuk menjalankan proyek ini secara lokal:
 1.  **Clone Repository:**
     ```bash
     git clone (hhttps://github.com/PradanaFigo/uts-pemweb-123140063)
-    cd uts-pemweb-063    ```
+    cd uts-pemweb-063   
 
 2.  **Install Dependencies:**
     Instal semua paket yang diperlukan (Node.js/npm harus sudah terinstal).
