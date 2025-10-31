@@ -53,7 +53,7 @@ Tampilan halaman utama menampilkan:
 
 <img width="1865" height="882" alt="image" src="https://github.com/user-attachments/assets/4c20eef6-b9cc-4b78-8d21-a3b06cdbac51" />
 
-
+---
 
 <img width="1853" height="889" alt="image" src="https://github.com/user-attachments/assets/29e5cd19-8268-40a9-98f7-0a3518a3e911" />
 
