@@ -1,16 +1,78 @@
-# React + Vite
+# 🍳 UTS Pengembangan Aplikasi Web: Recipe Nikmat
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Nama:** Pradana Figo Ariasya  
+**NIM:** 123140063  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📖 Deskripsi Proyek
+Aplikasi ini merupakan **Recipe Finder interaktif berbasis Single-Page Application (SPA)** yang dibangun menggunakan **ReactJS** dan **Vite**.  
+Proyek ini dirancang untuk memenuhi **UTS Mata Kuliah Pengembangan Aplikasi Web**, dengan tujuan mendemonstrasikan:
 
-## React Compiler
+- **Integrasi API asinkron** menggunakan `fetch API`
+- **State Management** melalui React Hooks (`useState`, `useEffect`)
+- **Tata letak responsif** menggunakan **CSS Grid** dan **Flexbox**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Aplikasi ini menampilkan **resep makanan** dari berbagai kategori dan negara.  
+Pengguna dapat **mencari resep berdasarkan nama**, **memilih kategori atau area**, **melihat detail resep**, serta **menyimpan resep favorit** secara persisten menggunakan `LocalStorage`.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Fitur Utama
+
+1️⃣ Form pencarian dengan input text dan dropdown kategori
+2️⃣ Grid card resep dengan gambar dan nama
+3️⃣ Detail resep dengan ingredients dan instructions
+4️⃣ Filter berdasarkan area/country (dropdown)
+5️⃣ Random recipe generator button
+
+---
+
+## 🧰 Teknologi yang Digunakan
+
+| Kategori | Teknologi |
+|-----------|------------|
+| **Framework** | ReactJS (Vite) |
+| **Styling** | CSS murni (Grid, Flexbox, Responsive Design) |
+| **State Management** | React Hooks |
+| **API Source** | [TheMealDB API](https://www.themealdb.com/api.php) |
+| **Deployment** | Vercel |
+
+---
+
+## 🔗 Link Deployment
+Aplikasi Live: https://uts-pemweb-123140063.vercel.app/
+
+---
+
+## 📸 Screenshot Aplikasi
+Tampilan halaman utama menampilkan:
+- Form pencarian resep  
+- Filter kategori & area  
+- Grid resep makanan   
+
+*(Tambahkan screenshot hasil tampilan aplikasi di sini)*
+
+---
+
+## Cara Instalasi dan Menjalankan
+
+Berikut adalah langkah-langkah untuk menjalankan proyek ini secara lokal:
+
+1.  **Clone Repository:**
+    ```bash
+    git clone (hhttps://github.com/PradanaFigo/uts-pemweb-123140063)
+    cd uts-pemweb-063    ```
+
+2.  **Install Dependencies:**
+    Instal semua paket yang diperlukan (Node.js/npm harus sudah terinstal).
+    ```bash
+    npm install
+    ```
+
+3.  **Jalankan Aplikasi:**
+    Aplikasi akan berjalan di mode development.
+    ```bash
+    npm run dev
+    ```
+4.  **Akses:** Buka `http://localhost:5173/` di browser Anda.
