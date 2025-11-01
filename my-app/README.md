@@ -1,7 +1,7 @@
 # 🍳 UTS Pengembangan Aplikasi Web: Recipe Nikmat
 
-##**Nama:** Pradana Figo Ariasya  
-##**NIM:** 123140063  
+**Nama:** Pradana Figo Ariasya  
+**NIM:** 123140063  
 
 ---
 
